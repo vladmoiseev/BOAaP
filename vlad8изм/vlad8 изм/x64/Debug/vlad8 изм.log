@@ -1,0 +1,6 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (vlad8 изм.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Header.c
+C:\Users\Vladislav\source\repos\vlad8изм\vlad8 изм\Header.c(27,13): warning C4013: if_letter: нет определения; предполагается "extern" с возвратом типа "int"
+  Source.c
+  Создание кода...
+  vlad8 изм.vcxproj -> C:\Users\Vladislav\source\repos\vlad8изм\x64\Debug\vlad8изм.exe
